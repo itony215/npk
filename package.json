@@ -27,7 +27,8 @@
     "fs-extra": "^0.13.0",
     "glob": "^3.2.9",
     "node-array": "0.0.6",
-    "uglify-js": "~2.3.0"
+    "uglify-js": "~2.3.0",
+    "nan": "^1.8.4"
   },
   "bin": {
     "npk": "./bin/npk"
